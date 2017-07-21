@@ -1,0 +1,4 @@
+shell "/usr/bin/zsh"
+hardstatus on
+hardstatus alwayslastline
+hardstatus string "%w"
